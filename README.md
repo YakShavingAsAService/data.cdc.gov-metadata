@@ -1,6 +1,6 @@
 # data.cdc.gov-metadata
 
-A script to add supplemntary metadata to data.cdc.gov dataset downloads from January 2025.
+A script to add supplementary metadata to data.cdc.gov dataset downloads from January 2025.
 
 The downloads are available at https://cdcdotgovarchive.org/CDC_datasets/.
 
